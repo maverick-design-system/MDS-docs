@@ -9,6 +9,10 @@ We use the **Poppins** font for all text styles.
 Each text type has a different function which is as follows:
 
 |Text type
-|______________
+|----------------|
+|                |
+|                |
+|
+|
 |
 |
