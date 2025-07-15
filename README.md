@@ -16,7 +16,7 @@ Built with [Docusaurus](https://docusaurus.io/) (or Next.js/Astro if used) and s
 ## 🚀 Running Locally
 
 ```bash
-git clone https://github.com/YOUR-ORG/MDS-docs
+git clone https://github.com/YOUR-ORG/MDS-docs](https://github.com/maverick-design-system/MDS-docs.git)
 cd MDS-docs
 npm install
 npm run dev
